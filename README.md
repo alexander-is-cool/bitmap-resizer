@@ -8,4 +8,4 @@ Run ```make```.
 
 ## Usage
 
-```resize.exe [scale] [infile] [outfile]```
+```resize.exe scale inputfile outputfile```
